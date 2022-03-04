@@ -1,0 +1,7 @@
+E:\DS - Desenvolvimento de Sistemas\Atividade_Lista\Exercicio_2\Exercicio_2\Exercicio_2\bin\Debug\Exercicio_2.exe.config
+E:\DS - Desenvolvimento de Sistemas\Atividade_Lista\Exercicio_2\Exercicio_2\Exercicio_2\bin\Debug\Exercicio_2.exe
+E:\DS - Desenvolvimento de Sistemas\Atividade_Lista\Exercicio_2\Exercicio_2\Exercicio_2\bin\Debug\Exercicio_2.pdb
+E:\DS - Desenvolvimento de Sistemas\Atividade_Lista\Exercicio_2\Exercicio_2\Exercicio_2\obj\Debug\Exercicio_2.csproj.AssemblyReference.cache
+E:\DS - Desenvolvimento de Sistemas\Atividade_Lista\Exercicio_2\Exercicio_2\Exercicio_2\obj\Debug\Exercicio_2.csproj.CoreCompileInputs.cache
+E:\DS - Desenvolvimento de Sistemas\Atividade_Lista\Exercicio_2\Exercicio_2\Exercicio_2\obj\Debug\Exercicio_2.exe
+E:\DS - Desenvolvimento de Sistemas\Atividade_Lista\Exercicio_2\Exercicio_2\Exercicio_2\obj\Debug\Exercicio_2.pdb

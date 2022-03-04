@@ -1,0 +1,57 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\DS - Desenvolvimento de Sistemas\\Atividade_Lista\\Exercicio_2\\Exercicio_2.csproj": {}
+  },
+  "projects": {
+    "E:\\DS - Desenvolvimento de Sistemas\\Atividade_Lista\\Exercicio_2\\Exercicio_2.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\DS - Desenvolvimento de Sistemas\\Atividade_Lista\\Exercicio_2\\Exercicio_2.csproj",
+        "projectName": "Exercicio_2",
+        "projectPath": "E:\\DS - Desenvolvimento de Sistemas\\Atividade_Lista\\Exercicio_2\\Exercicio_2.csproj",
+        "packagesPath": "C:\\Users\\Aluno\\.nuget\\packages\\",
+        "outputPath": "E:\\DS - Desenvolvimento de Sistemas\\Atividade_Lista\\Exercicio_2\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Aluno\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

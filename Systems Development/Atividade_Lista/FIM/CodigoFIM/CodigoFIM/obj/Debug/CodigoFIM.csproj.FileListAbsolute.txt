@@ -1,0 +1,7 @@
+E:\Atividade_Lista\FIM\CodigoFIM\CodigoFIM\obj\Debug\CodigoFIM.csprojAssemblyReference.cache
+E:\Atividade_Lista\FIM\CodigoFIM\CodigoFIM\obj\Debug\CodigoFIM.csproj.CoreCompileInputs.cache
+E:\Atividade_Lista\FIM\CodigoFIM\CodigoFIM\bin\Debug\CodigoFIM.exe.config
+E:\Atividade_Lista\FIM\CodigoFIM\CodigoFIM\bin\Debug\CodigoFIM.exe
+E:\Atividade_Lista\FIM\CodigoFIM\CodigoFIM\bin\Debug\CodigoFIM.pdb
+E:\Atividade_Lista\FIM\CodigoFIM\CodigoFIM\obj\Debug\CodigoFIM.exe
+E:\Atividade_Lista\FIM\CodigoFIM\CodigoFIM\obj\Debug\CodigoFIM.pdb

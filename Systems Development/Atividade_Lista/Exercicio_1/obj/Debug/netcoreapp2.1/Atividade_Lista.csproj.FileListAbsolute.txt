@@ -1,0 +1,11 @@
+E:\DS - Desenvolvimento de Sistemas\Atividade_Lista\obj\Debug\netcoreapp2.1\Atividade_Lista.csprojAssemblyReference.cache
+E:\DS - Desenvolvimento de Sistemas\Atividade_Lista\obj\Debug\netcoreapp2.1\Atividade_Lista.csproj.CoreCompileInputs.cache
+E:\DS - Desenvolvimento de Sistemas\Atividade_Lista\obj\Debug\netcoreapp2.1\Atividade_Lista.AssemblyInfoInputs.cache
+E:\DS - Desenvolvimento de Sistemas\Atividade_Lista\obj\Debug\netcoreapp2.1\Atividade_Lista.AssemblyInfo.cs
+E:\DS - Desenvolvimento de Sistemas\Atividade_Lista\bin\Debug\netcoreapp2.1\Atividade_Lista.deps.json
+E:\DS - Desenvolvimento de Sistemas\Atividade_Lista\bin\Debug\netcoreapp2.1\Atividade_Lista.runtimeconfig.json
+E:\DS - Desenvolvimento de Sistemas\Atividade_Lista\bin\Debug\netcoreapp2.1\Atividade_Lista.runtimeconfig.dev.json
+E:\DS - Desenvolvimento de Sistemas\Atividade_Lista\bin\Debug\netcoreapp2.1\Atividade_Lista.dll
+E:\DS - Desenvolvimento de Sistemas\Atividade_Lista\bin\Debug\netcoreapp2.1\Atividade_Lista.pdb
+E:\DS - Desenvolvimento de Sistemas\Atividade_Lista\obj\Debug\netcoreapp2.1\Atividade_Lista.dll
+E:\DS - Desenvolvimento de Sistemas\Atividade_Lista\obj\Debug\netcoreapp2.1\Atividade_Lista.pdb
