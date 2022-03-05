@@ -1,0 +1,19 @@
+* {
+    margin: 0px;
+    margin-left: 5px;
+    padding: 0px;
+    font-family: arial;
+}
+form{
+    margin: 20px;
+}
+label{
+    font-size: 17px;
+}
+#formulario{
+    font-size: 20px;
+}
+#botaoEnviar{
+    padding-left: 10px;
+    padding-right: 10px;
+}
